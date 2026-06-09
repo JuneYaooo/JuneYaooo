@@ -34,11 +34,16 @@ I enjoy meeting people from different industries and helping turn AI ideas into 
 
 ### Things I Care About / 我关注的事
 
-- Making AI useful in real workflows, not just demos.
-- Turning domain knowledge into reusable tools and agents.
-- Helping teams figure out where AI can actually create value.
-- Fine-tuning and improving LLMs for specific tasks when needed.
-- Building prototypes fast enough to test ideas in the real world.
+- Making AI useful in real workflows, not just demos.  
+  让 AI 真正进入工作流，而不是停留在 demo。
+- Turning domain knowledge into reusable tools and agents.  
+  把领域知识变成可复用的工具和 Agent。
+- Helping teams figure out where AI can actually create value.  
+  帮助团队找到 AI 真正能创造价值的地方。
+- Fine-tuning and improving LLMs for specific tasks when needed.  
+  在需要时，为具体任务微调和优化大模型。
+- Building prototypes fast enough to test ideas in the real world.  
+  快速做出原型，用真实场景验证想法。
 
 ---
 
