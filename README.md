@@ -13,7 +13,6 @@ I enjoy meeting people from different industries and helping turn AI ideas into 
 我喜欢认识各行各业的人，也擅长帮助不同领域梳理 AI 落地方案，把想法变成能执行的路径。
 
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.7k-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/JuneYaooo?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/JuneYaooo?style=flat&logo=github&label=Followers)](https://github.com/JuneYaooo?tab=followers)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JuneYaooo&query=$.public_repos&label=Public%20Repos&logo=github&color=2EA44F)](https://github.com/JuneYaooo?tab=repositories)
 
 ---
