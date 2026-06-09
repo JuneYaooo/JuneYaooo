@@ -1,8 +1,8 @@
 # Hi, I'm June
 
-Native AI Algorithm Engineer exploring Agent Skills, Medical AI, RAG, and AI-native workflows.
+Native AI Algorithm Engineer exploring Agent Skills, LLMs, RAG, and AI-native workflows.
 
-原生 AI 算法工程师，关注 Agent Skills、医疗 AI、RAG 和 AI 原生工作流。
+原生 AI 算法工程师，关注 Agent Skills、大模型、RAG 和 AI 原生工作流。
 
 I learn fast, build fast, and enjoy turning new ideas into working prototypes.
 
