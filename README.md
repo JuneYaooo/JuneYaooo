@@ -1,57 +1,36 @@
 # Hi, I'm June
 
-Native AI Algorithm Engineer exploring Agent Skills, LLMs, RAG, and AI-native workflows.
+Native AI Algorithm Engineer exploring LLMs, Agent Skills, RAG, and AI-native workflows.
 
-原生 AI 算法工程师，关注 Agent Skills、大模型、RAG 和 AI 原生工作流。
+原生 AI 算法工程师，关注大模型、Agent Skills、RAG 和 AI 原生工作流。
 
-I learn fast, build fast, and enjoy turning new ideas into working prototypes.
+I learn fast, sense early signals in new tech shifts, and turn AI ideas into practical paths and working prototypes.
 
-我擅长快速理解新事物，并把复杂知识、业务流程和重复推理拆解成可运行的 AI 工具。
-
-I enjoy meeting people from different industries and helping turn AI ideas into practical solutions.
-
-我喜欢认识各行各业的人，也擅长帮助不同领域梳理 AI 落地方案，把想法变成能执行的路径。
+我擅长快速学习、捕捉新技术变化里的早期信号，并把 AI 想法拆解成可执行方案和可运行原型。
 
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.7k-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/JuneYaooo?tab=repositories)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JuneYaooo&query=$.public_repos&label=Public%20Repos&logo=github&color=2EA44F)](https://github.com/JuneYaooo?tab=repositories)
 
 ---
 
-### About Me / 关于我
+### How I Think / 我的特质
 
-- Native AI algorithm engineer focused on practical AI implementation.  
-  关注 AI 实际落地的原生 AI 算法工程师。
-- Interested in LLMs, fine-tuning, Agent Skills, RAG, knowledge engineering, and practical AI tools.  
-  关注大模型、模型微调、Agent Skills、RAG、知识工程和实用型 AI 工具。
-- Good at understanding new things quickly and turning them into usable workflows.  
-  擅长快速理解新事物，并把它们转成可用工作流。
-- Good at connecting AI capabilities with real business contexts across different industries.  
-  擅长把 AI 能力和各行业的真实业务场景连接起来。
-- INTP, curious, action-first, and allergic to endless planning.  
-  INTP，好奇心强，行动优先，不太喜欢无止境空想。
+- Fast learner, action-first, and curious about how new things work.  
+  学得快，行动优先，对新事物的运行机制有强烈好奇心。
+- Good at noticing early shifts in technology, tools, and industry workflows.  
+  能较早捕捉技术、工具和行业工作流里的变化信号。
+- Good at connecting AI capabilities with real business contexts.  
+  擅长把 AI 能力和真实业务场景连接起来。
+- I prefer prototypes and practical solutions over endless planning.  
+  相比长时间空想，更喜欢用原型和具体方案验证想法。
 
 ---
 
-### Things I Care About / 我关注的事
+### Open To / 欢迎交流
 
-- Making AI useful in real workflows, not just demos.  
-  让 AI 真正进入工作流，而不是停留在 demo。
-- Turning domain knowledge into reusable tools and agents.  
-  把领域知识变成可复用的工具和 Agent。
-- Helping teams figure out where AI can actually create value.  
-  帮助团队找到 AI 真正能创造价值的地方。
-- Fine-tuning and improving LLMs for specific tasks when needed.  
-  在需要时，为具体任务微调和优化大模型。
-- Building prototypes fast enough to test ideas in the real world.  
-  快速做出原型，用真实场景验证想法。
+I enjoy meeting people from different industries, especially those curious about AI implementation, agents, productivity, knowledge work, or new ideas.
 
----
-
-### Looking For / 希望认识
-
-People from any industry who are curious about AI, building useful things, exploring agents, or simply enjoy learning new ideas.
-
-欢迎各行各业的朋友交流。不管你是在做 AI、Agent、开源工具、医疗 AI、知识工程，还是只是对 AI 落地、效率提升、新技术和新想法感兴趣，都可以聊聊。
+我喜欢认识各行各业的人。无论你关注 AI 落地、Agent、效率提升、知识工作，还是只是对新技术和新想法感兴趣，都欢迎交流。
 
 ---
 
