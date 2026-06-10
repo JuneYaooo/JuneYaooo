@@ -18,7 +18,7 @@ I learn fast, sense early signals in new tech shifts, and turn AI ideas into pra
 - Fast learner, action-first, and curious about how new things work.  
   学得快，行动优先，对新事物的运行机制有强烈好奇心。
 - Good at noticing early shifts in technology, tools, and industry workflows.  
-  能较早捕捉技术、工具和行业工作流里的变化信号。
+  能敏锐捕捉技术、工具和行业工作流里的变化信号。
 - Good at connecting AI capabilities with real business contexts.  
   擅长把 AI 能力和真实业务场景连接起来。
 - I prefer prototypes and practical solutions over endless planning.  
