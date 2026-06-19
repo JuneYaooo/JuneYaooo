@@ -8,7 +8,7 @@ I learn fast, sense early signals in new tech shifts, and turn AI ideas into pra
 
 我擅长快速学习、捕捉新技术变化里的早期信号，并把 AI 想法拆解成可执行方案和可运行原型。
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-2.0k-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/JuneYaooo?tab=repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-2.1k-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/JuneYaooo?tab=repositories)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JuneYaooo&query=$.public_repos&label=Public%20Repos&logo=github&color=2EA44F)](https://github.com/JuneYaooo?tab=repositories)
 
 ---
