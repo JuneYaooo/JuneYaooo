@@ -2,7 +2,7 @@
 
 Native AI Algorithm Engineer, hands-on with LLMs, Agent Skills, RAG, and AI-native workflows.
 
-原生 AI 算法工程师，深度实践大模型、Agent Skills、RAG 和 AI 原生工作流。
+AI 算法工程师，深度实践大模型、Agent Skills、RAG 和 AI 原生工作流。
 
 I learn fast, sense early signals in new tech shifts, and turn AI ideas into practical paths and working prototypes.
 
@@ -30,7 +30,7 @@ I learn fast, sense early signals in new tech shifts, and turn AI ideas into pra
 
 I enjoy meeting people from different industries, especially those curious about AI implementation, agents, productivity, knowledge work, or new ideas.
 
-我喜欢认识各行各业的人。无论你关注 AI 落地、Agent、效率提升、知识工作，还是只是对新技术和新想法感兴趣，都欢迎交流。
+I人但是真诚。无论你关注 AI 落地、Agent、效率提升、知识工作，还是只是对新技术和新想法感兴趣，都欢迎交流。
 
 ---
 
