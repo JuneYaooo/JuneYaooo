@@ -6,7 +6,7 @@ AI 算法工程师，深度实践大模型、Agent Skills、RAG 和 AI 原生工
 
 I learn fast, sense early signals in new tech shifts, and turn AI ideas into practical paths and working prototypes.
 
-我擅长快速学习、捕捉新技术变化里的早期信号，并把 AI 想法拆解成可执行方案和可运行原型。
+擅长快速学习、捕捉新技术变化里的早期信号，并把 AI 想法拆解成可执行方案和可运行原型。
 
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-4.4k-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/JuneYaooo?tab=repositories)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JuneYaooo&query=$.public_repos&label=Public%20Repos&logo=github&color=2EA44F)](https://github.com/JuneYaooo?tab=repositories)
@@ -30,7 +30,7 @@ I learn fast, sense early signals in new tech shifts, and turn AI ideas into pra
 
 I enjoy meeting people from different industries, especially those curious about AI implementation, agents, productivity, knowledge work, or new ideas.
 
-I人但是真诚。无论你关注 AI 落地、Agent、效率提升、知识工作，还是只是对新技术和新想法感兴趣，都欢迎交流。
+无论你关注 AI 落地、Agent、效率提升、知识工作，还是只是对新技术和新想法感兴趣，都欢迎交流。
 
 ---
 
@@ -41,3 +41,4 @@ Open to collaboration, technical exchange, AI implementation discussions, or jus
 欢迎交流、合作、讨论 AI 落地方案，或者只是认识一下。
 
 Email: `Juneyaooo@gmail.com`
+Wechat: jj66jj66j
