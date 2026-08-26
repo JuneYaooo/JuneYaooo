@@ -41,4 +41,5 @@ Open to collaboration, technical exchange, AI implementation discussions, or jus
 欢迎交流、合作、讨论 AI 落地方案，或者只是认识一下。
 
 Email: `Juneyaooo@gmail.com`
+
 Wechat: jj66jj66j
