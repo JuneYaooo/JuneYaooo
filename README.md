@@ -42,4 +42,3 @@ Open to collaboration, technical exchange, AI implementation discussions, or jus
 
 Email: `Juneyaooo@gmail.com`
 
-Wechat: jj66jj66j
