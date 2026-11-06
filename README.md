@@ -1,6 +1,6 @@
 ## Hi, I'm June 👋
 
-技术高敏，行动主义者
+技术高敏，行动主义者<br>
 Specialized in turning LLM & agent capabilities into open-source tools people actually use.
 
 [![Followers](https://img.shields.io/github/followers/JuneYaooo?label=Follow&style=flat-square)](https://github.com/JuneYaooo?tab=followers)
@@ -25,40 +25,41 @@ Specialized in turning LLM & agent capabilities into open-source tools people ac
 
 📦 **工具合集 Toolkits**
 
-- [awesome-ai-media-cn](https://github.com/JuneYaooo/awesome-ai-media-cn) — 150+ 工具，每周更新
-- [awesome-ai-media](https://github.com/JuneYaooo/awesome-ai-media) — 国际版 EN
-- [awesome-ai-media-skills-cn](https://github.com/JuneYaooo/awesome-ai-media-skills-cn) — Agent Skills 版
+- [![★](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media-cn?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-ai-media-cn) [**awesome-ai-media-cn**](https://github.com/JuneYaooo/awesome-ai-media-cn) — 150+ 工具，每周更新
+- [![★](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-ai-media) [**awesome-ai-media**](https://github.com/JuneYaooo/awesome-ai-media) — 国际版 EN
+- [![★](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media-skills-cn?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-ai-media-skills-cn) [**awesome-ai-media-skills-cn**](https://github.com/JuneYaooo/awesome-ai-media-skills-cn) — Agent Skills 版
 
 ---
 
 ### 🩺 医疗 AI · Medical AI
 
-让 Agent 在医疗场景里可用、可信 —— 从中医传承到临床与科研。
+让 Agent 在医疗场景里可用、可信 —— 从中医传承到临床与科研。<br>
 Making agents actually useful in medicine — from TCM heritage to clinical research.
 
-- ★ [**nihaisha-nishi-tcm**](https://github.com/JuneYaooo/nihaisha-nishi-tcm) — 倪海厦中医课程 Agent Skill：课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引
-- [**open-medical**](https://github.com/JuneYaooo/open-medical) — 开源临床决策支持系统：和医生一起成长的桌面 Agent，本地优先
-- [jev-healthcare-lab](https://github.com/JuneYaooo/jev-healthcare-lab) — 96 项医疗任务实测对比：现有 Agent 工具的真实能力与差距
+- [![★](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/nihaisha-nishi-tcm) [**nihaisha-nishi-tcm**](https://github.com/JuneYaooo/nihaisha-nishi-tcm) — 倪海厦中医课程 Agent Skill：课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引
+- [![★](https://img.shields.io/github/stars/JuneYaooo/open-medical?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/open-medical) [**open-medical**](https://github.com/JuneYaooo/open-medical) — 开源临床决策支持系统：和医生一起成长的桌面 Agent，本地优先
+- [![★](https://img.shields.io/github/stars/JuneYaooo/jev-healthcare-lab?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/jev-healthcare-lab) [**jev-healthcare-lab**](https://github.com/JuneYaooo/jev-healthcare-lab) — 96 项医疗任务实测对比：现有 Agent 工具的真实能力与差距
+
 📦 **开源精选 Curated Lists**
 
-- [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai) — 开源医疗 AI 精选 · 国际版 EN
-- [awesome-medical-ai-cn](https://github.com/JuneYaooo/awesome-medical-ai-cn) — 国内版
-- [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — Agent Skills 版
+- [![★](https://img.shields.io/github/stars/JuneYaooo/awesome-medical-ai?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-medical-ai) [**awesome-medical-ai**](https://github.com/JuneYaooo/awesome-medical-ai) — 开源医疗 AI 精选 · 国际版 EN
+- [![★](https://img.shields.io/github/stars/JuneYaooo/awesome-medical-ai-cn?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-medical-ai-cn) [**awesome-medical-ai-cn**](https://github.com/JuneYaooo/awesome-medical-ai-cn) — 国内版
+- [![★](https://img.shields.io/github/stars/JuneYaooo/awesome-medical-ai-skills-cn?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) [**awesome-medical-ai-skills-cn**](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — Agent Skills 版
 
 ---
 
 ### 🧩 其他小玩具 · Side Toys
 
-- [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) — 把任何 .pptx 模板「抄」成你的 PPT
-- [lineage-skill](https://github.com/JuneYaooo/lineage-skill) — 师承：把老师的教学资料蒸馏成有据可查的 Agent Skill
-- [launchfit-ai](https://github.com/JuneYaooo/launchfit-ai) — 出海体检官：跨境商品卖前合规体检 · 食品展黑客松第二名
-- [civilization-atlas-skill](https://github.com/JuneYaooo/civilization-atlas-skill) — 趋势推演
+- [![★](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/gpt-image2-ppt-skills) [**gpt-image2-ppt-skills**](https://github.com/JuneYaooo/gpt-image2-ppt-skills) — 把任何 .pptx 模板「抄」成你的 PPT
+- [![★](https://img.shields.io/github/stars/JuneYaooo/lineage-skill?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/lineage-skill) [**lineage-skill**](https://github.com/JuneYaooo/lineage-skill) — 师承：把老师的教学资料蒸馏成有据可查的 Agent Skill
+- [![★](https://img.shields.io/github/stars/JuneYaooo/launchfit-ai?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/launchfit-ai) [**launchfit-ai**](https://github.com/JuneYaooo/launchfit-ai) — 出海体检官：跨境商品卖前合规体检 · 食品展黑客松第二名
+- [![★](https://img.shields.io/github/stars/JuneYaooo/civilization-atlas-skill?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/civilization-atlas-skill) [**civilization-atlas-skill**](https://github.com/JuneYaooo/civilization-atlas-skill) — 趋势推演
 
 ---
 
 ### ☕ Coffee Chat
 
-欢迎约线上 / 线下的 coffee chat：交流、合作、咨询，或者只是认识一下。
+欢迎约线上 / 线下的 coffee chat：交流、合作、咨询，或者只是认识一下。<br>
 Always happy to meet — online or offline. Coffee chat for ideas, collaboration, consulting, or just to say hi.
 
 📮 **Juneyaooo@gmail.com**
