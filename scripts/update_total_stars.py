@@ -64,5 +64,18 @@ def update_readme(total_stars):
         file.write(updated)
 
 
-if __name__ == "__main__":
+def main():
+    with open(README_PATH, "r", encoding="utf-8") as file:
+        content = file.read()
+    # Dynamic badges fetch their own counts; preserve the README as-is.
+    if re.search(
+        rf"https://img\.shields\.io/github/stars/{re.escape(USERNAME)}\?",
+        content,
+    ):
+        print("Total Stars uses a dynamic badge; no README update needed.")
+        return
     update_readme(fetch_total_stars())
+
+
+if __name__ == "__main__":
+    main()
