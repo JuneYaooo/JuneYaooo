@@ -4,7 +4,9 @@
 
 Sensitive to emerging technology, driven to build. Turning LLM & agent capabilities into practical open-source tools.
 
-## ☕ 聊一聊 · Coffee Chat欢迎约线上 / 线下交流：聊想法、合作、咨询，或者只是认识一下。<br>
+## ☕ 聊一聊 · Coffee Chat
+
+欢迎约线上 / 线下交流：聊想法、合作、咨询，或者只是认识一下。<br>
 Happy to meet online or in person for ideas, collaboration, consulting, or just to say hi.
 
 📮 [Juneyaooo@gmail.com](mailto:Juneyaooo@gmail.com)
