@@ -16,7 +16,7 @@ Happy to meet online or in person for ideas, collaboration, consulting, or just 
 从拆解爆款、复刻效果，到账号运营与发布审核。<br>
 From analyzing viral videos and recreating effects to account operations and pre-publication reviews.
 
-| 项目 Project | 简介 Description | 星标 Stars |
+| Project | Description | Stars |
 | :--- | :--- | :---: |
 | [**rea-video**](https://github.com/JuneYaooo/rea-video) | 逐镜拆解拍摄、剪辑与 AI 效果，生成视频复刻方案<br>Break down filming, editing, and AI effects shot by shot, with a plan to recreate them. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/rea-video?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/rea-video/stargazers) |
 | [**capsule-cinema**](https://github.com/JuneYaooo/capsule-cinema) | 把 Claude 视频效果蒸馏成配方，让其他模型也能复刻<br>Distill Claude video effects into recipes other models can follow. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/capsule-cinema?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/capsule-cinema/stargazers) |
@@ -29,7 +29,7 @@ From analyzing viral videos and recreating effects to account operations and pre
 面向创作者的工具导航与 Agent Skills。<br>
 Tool directories and agent skills for creators.
 
-| 项目 Project | 简介 Description | 星标 Stars |
+| Project | Description | Stars |
 | :--- | :--- | :---: |
 | [**awesome-ai-media-cn**](https://github.com/JuneYaooo/awesome-ai-media-cn) | 150+ 工具，每周更新<br>150+ tools, updated weekly. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media-cn?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-ai-media-cn/stargazers) |
 | [**awesome-ai-media**](https://github.com/JuneYaooo/awesome-ai-media) | 国际版 EN<br>International edition in English. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/awesome-ai-media?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-ai-media/stargazers) |
@@ -40,7 +40,7 @@ Tool directories and agent skills for creators.
 从中医传承到临床与科研，让 Agent 在医疗场景里可用、可信。<br>
 Making agents useful and trustworthy in medicine, from TCM knowledge to clinical practice and research.
 
-| 项目 Project | 简介 Description | 星标 Stars |
+| Project | Description | Stars |
 | :--- | :--- | :---: |
 | [**nihaisha-nishi-tcm**](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | 倪海厦中医课程 Skill：检索课程、辨析方证穴位、整理学习笔记<br>A skill for Ni Haixia’s TCM courses: search lessons, study formulas and acupoints, and organize notes. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/nihaisha-nishi-tcm/stargazers) |
 | [**open-medical**](https://github.com/JuneYaooo/open-medical) | 本地优先的临床决策支持桌面 Agent，和医生一起成长<br>A local-first desktop agent for clinical decision support that grows alongside doctors. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/open-medical?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/open-medical/stargazers) |
@@ -51,7 +51,7 @@ Making agents useful and trustworthy in medicine, from TCM knowledge to clinical
 按语言与使用方式整理的医疗 AI 资源。<br>
 Medical AI resources organized by language and use case.
 
-| 项目 Project | 简介 Description | 星标 Stars |
+| Project | Description | Stars |
 | :--- | :--- | :---: |
 | [**awesome-medical-ai**](https://github.com/JuneYaooo/awesome-medical-ai) | 开源医疗 AI 精选 · 国际版 EN<br>Curated open-source medical AI projects, international edition in English. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/awesome-medical-ai?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-medical-ai/stargazers) |
 | [**awesome-medical-ai-cn**](https://github.com/JuneYaooo/awesome-medical-ai-cn) | 国内版<br>China-focused edition. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/awesome-medical-ai-cn?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/awesome-medical-ai-cn/stargazers) |
@@ -62,7 +62,7 @@ Medical AI resources organized by language and use case.
 围绕演示、知识传承、出海与趋势推演的小工具。<br>
 Small tools for presentations, knowledge transfer, global commerce, and trend analysis.
 
-| 项目 Project | 简介 Description | 星标 Stars |
+| Project | Description | Stars |
 | :--- | :--- | :---: |
 | [**gpt-image2-ppt-skills**](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 把任何 .pptx 模板「抄」成你的 PPT<br>Turn any .pptx template into your own presentation. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/stargazers) |
 | [**lineage-skill**](https://github.com/JuneYaooo/lineage-skill) | 师承：把老师的教学资料蒸馏成有据可查的 Agent Skill<br>Distill a teacher’s materials into an agent skill with traceable sources. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/lineage-skill?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/lineage-skill/stargazers) |
