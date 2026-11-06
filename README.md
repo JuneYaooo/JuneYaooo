@@ -4,6 +4,10 @@
 
 Sensitive to emerging technology, driven to build. Turning LLM & agent capabilities into practical open-source tools.
 
+## ☕ 聊一聊 · Coffee Chat欢迎约线上 / 线下交流：聊想法、合作、咨询，或者只是认识一下。<br>
+Happy to meet online or in person for ideas, collaboration, consulting, or just to say hi.
+
+📮 [Juneyaooo@gmail.com](mailto:Juneyaooo@gmail.com)
 
 ## 🎬 AI 视频工作流 · AI Video Pipeline
 
@@ -62,10 +66,3 @@ Small tools for presentations, knowledge transfer, global commerce, and trend an
 | [**lineage-skill**](https://github.com/JuneYaooo/lineage-skill) | 师承：把老师的教学资料蒸馏成有据可查的 Agent Skill<br>Distill a teacher’s materials into an agent skill with traceable sources. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/lineage-skill?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/lineage-skill/stargazers) |
 | [**launchfit-ai**](https://github.com/JuneYaooo/launchfit-ai) | 出海体检官：跨境商品卖前合规体检 · 食品展黑客松第二名<br>Pre-sale compliance checks for cross-border products; runner-up at a food expo hackathon. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/launchfit-ai?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/launchfit-ai/stargazers) |
 | [**civilization-atlas-skill**](https://github.com/JuneYaooo/civilization-atlas-skill) | 趋势推演<br>Explore trends and how they may unfold. | [![Stars](https://img.shields.io/github/stars/JuneYaooo/civilization-atlas-skill?style=flat-square&label=%E2%98%85)](https://github.com/JuneYaooo/civilization-atlas-skill/stargazers) |
-
-## ☕ 聊一聊 · Coffee Chat
-
-欢迎约线上 / 线下交流：聊想法、合作、咨询，或者只是认识一下。<br>
-Happy to meet online or in person for ideas, collaboration, consulting, or just to say hi.
-
-📮 [Juneyaooo@gmail.com](mailto:Juneyaooo@gmail.com)
