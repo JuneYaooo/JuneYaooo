@@ -1,4 +1,4 @@
-# 你好，我是 June · Hi, I'm June 👋 [![Total Stars](https://img.shields.io/github/stars/JuneYaooo?label=%E2%AD%90%20Total%20Stars&style=flat-square)](https://github.com/JuneYaooo?tab=repositories)
+# Hi, I'm June 👋 [![Total Stars](https://img.shields.io/github/stars/JuneYaooo?label=%E2%AD%90%20Total%20Stars&style=flat-square)](https://github.com/JuneYaooo?tab=repositories)
 
 技术高敏，行动主义者。把 LLM 与 Agent 能力做成真正用得上的开源工具。
 
