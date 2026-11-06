@@ -1,0 +1,35 @@
+name: Refresh total stars
+
+on:
+  schedule:
+    - cron: "30 21 * * *"  # 每天北京时间 05:30 刷新一次
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sum public repo stars
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          total=$(gh api --paginate "users/${GITHUB_REPOSITORY_OWNER}/repos?per_page=100" --jq '.[].stargazers_count' | jq -s 'add // 0')
+          jq -n --argjson t "$total" '{total_stars: $t}' > stars.json
+          echo "Total stars: $total" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit stars.json if changed
+        run: |
+          if git diff --quiet -- stars.json; then
+            echo "No change, skip commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add stars.json
+            git commit -m "chore: refresh total stars [skip ci]"
+            git push
+          fi
